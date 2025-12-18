@@ -17,5 +17,5 @@ I work with real datasets to extract insights, build dashboards, and support dec
 - **Domain Knowledge:** Accounting, corporate finance, business analysis
 
 ## 📬 Contact
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- Email: your.email@example.com
+- GitHub: [your-github-RyantheRage](https://github.com/RyantheRage)
+- Email: abdullaraiyan@gmail.com
