@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ryan 👋
 
-<!--
-**RyantheRage/RyantheRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I'm a business and management student with a strong focus on data analytics, accounting, and finance.  
+I work with real datasets to extract insights, build dashboards, and support decision-making.
 
-Here are some ideas to get you started:
+## 📊 What I'm Working On
+- Data analytics projects using Power BI, SQL, and Excel  
+- Financial and accounting analysis aligned with ACCA / CMA concepts  
+- Turning messy data into clear, usable reports and dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Skills
+- **Data Analytics:** Power BI (DAX, dashboards, data modeling), Excel  
+- **Databases:** SQL (PostgreSQL)  
+- **Programming:** Python  
+- **Tools:** Git, GitHub, VS Code  
+- **Domain Knowledge:** Accounting, corporate finance, business analysis
+
+## 📬 Contact
+- GitHub: [your-github-username](https://github.com/your-github-username)
+- Email: your.email@example.com
